@@ -1,0 +1,9 @@
+dev-util/pycharm-professional ~amd64
+dev-vcs/gitflow ~amd64
+app-editors/atom ~amd64
+dev-util/atom-shell ~amd64
+dev-util/idea-ultimate ~amd64
+app-editors/sublime-text ~amd64
+app-emulation/vagrant ~amd64media-fonts/hack ~amd64
+dev-vcs/git-annex ~amd64
+app-emulation/vagrant-bin ~amd64

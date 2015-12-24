@@ -1,0 +1,717 @@
+www-client/firefox gstreamer
+# required by app-forensics/rkhunter-1.4.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-process/lsof-4.88-r1 rpc
+# required by app-doc/doxygen-1.8.9.1::gentoo[latex]
+# required by kde-frameworks/kapidox-5.12.0::gentoo
+# required by @kde-frameworks (argument)
+>=app-text/texlive-2014 extra
+# required by dev-libs/sni-qt-0.2.6-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libdbusmenu-qt-0.9.3_pre20140619-r1 abi_x86_32
+# required by net-print/cups-2.0.3::gentoo[zeroconf]
+# required by @selected
+# required by @world (argument)
+>=net-dns/avahi-0.6.31-r8 abi_x86_32
+www-client/aurora e10s egl extra-repo faststart gstreamer
+# required by sys-devel/clang-3.5.0-r100::gentoo
+# required by dev-libs/libclc-0.0.1_pre20141027::gentoo
+# required by media-libs/mesa-10.6.2::gentoo[opencl]
+# required by mesa (argument)
+>=sys-devel/llvm-3.5.0 clang
+# required by media-libs/mesa-10.6.2::gentoo[llvm,-video_cards_r600,opencl,-video_cards_radeonsi,-video_cards_radeon]
+# required by mesa (argument)
+>=dev-libs/elfutils-0.158 abi_x86_32
+# required by media-libs/mesa-10.6.2::gentoo[opencl]
+# required by mesa (argument)
+>=sys-devel/clang-3.5.0-r100 abi_x86_32
+# required by net-dns/avahi-0.6.31-r8::gentoo[gtk]
+# required by gnome-base/gnome-vfs-2.24.4-r2::gentoo[avahi]
+# required by media-gfx/inkscape-0.48.5-r1::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gtk+-2.24.28-r1:2 abi_x86_32
+# required by net-dns/avahi-0.6.31-r8::gentoo[gtk3]
+# required by gnome-base/gnome-vfs-2.24.4-r2::gentoo[avahi]
+# required by media-gfx/inkscape-0.48.5-r1::gentoo[gnome]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gtk+-3.14.13 abi_x86_32
+# required by x11-libs/gdk-pixbuf-2.30.8-r1::gentoo[jpeg2k]
+# required by gnome-base/librsvg-2.40.9::gentoo
+# required by x11-themes/gnome-icon-theme-symbolic-3.12.0::gentoo
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=media-libs/jasper-1.900.1-r9 abi_x86_32
+# required by x11-libs/gtk+-3.14.13::gentoo[X]
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=app-accessibility/at-spi2-atk-2.14.1 abi_x86_32
+# required by x11-libs/pango-1.36.8::gentoo[X]
+# required by x11-libs/vte-0.36.4::gentoo
+# required by app-emulation/qemu-2.3.0-r5::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXft-2.3.2 abi_x86_32
+# required by media-libs/harfbuzz-0.9.38::gentoo[graphite]
+# required by x11-libs/pango-1.36.8::gentoo
+# required by x11-libs/vte-0.36.4::gentoo
+# required by app-emulation/qemu-2.3.0-r5::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=media-gfx/graphite2-1.2.4-r1 abi_x86_32
+# required by x11-libs/gtk+-3.14.13::gentoo
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/atk-2.14.0 abi_x86_32
+# required by x11-libs/gtk+-3.14.13::gentoo
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/pango-1.36.8 abi_x86_32
+# required by media-libs/jasper-1.900.1-r9::gentoo[opengl]
+# required by x11-libs/gdk-pixbuf-2.30.8-r1::gentoo[jpeg2k]
+# required by gnome-base/librsvg-2.40.9::gentoo
+# required by x11-themes/gnome-icon-theme-symbolic-3.12.0::gentoo
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=media-libs/freeglut-2.8.1-r1 abi_x86_32
+# required by app-accessibility/at-spi2-atk-2.14.1::gentoo
+# required by x11-libs/gtk+-3.14.13::gentoo[X]
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=app-accessibility/at-spi2-core-2.14.1 abi_x86_32
+# required by x11-libs/pango-1.36.8::gentoo
+# required by x11-libs/vte-0.36.4::gentoo
+# required by app-emulation/qemu-2.3.0-r5::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=media-libs/harfbuzz-0.9.38 abi_x86_32
+# required by gnome-base/librsvg-2.40.9::gentoo
+# required by x11-themes/gnome-icon-theme-symbolic-3.12.0::gentoo
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libcroco-0.6.8-r1 abi_x86_32
+# required by x11-libs/gtk+-2.24.28-r1::gentoo
+# required by mail-client/thunderbird-38.1.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gdk-pixbuf-2.30.8-r1 abi_x86_32
+# required by x11-libs/gtk+-3.14.13::gentoo[colord]
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-misc/colord-1.2.10 abi_x86_32
+# required by x11-libs/gtk+-3.14.13::gentoo
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=gnome-base/librsvg-2.40.9 abi_x86_32
+# required by x11-libs/pango-1.36.8::gentoo
+# required by x11-libs/vte-0.36.4::gentoo
+# required by app-emulation/qemu-2.3.0-r5::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/cairo-1.14.2 abi_x86_32
+# required by x11-libs/cairo-1.14.2::gentoo
+# required by x11-libs/gtk+-2.24.28-r1::gentoo
+# required by mail-client/thunderbird-38.1.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/pixman-0.32.6 abi_x86_32
+# required by x11-misc/colord-1.2.10::gentoo[gusb]
+# required by x11-libs/gtk+-3.14.13::gentoo[colord]
+# required by net-wireless/gnome-bluetooth-3.14.1::gentoo
+# required by gnome-extra/nm-applet-1.0.2::gentoo[bluetooth]
+# required by net-misc/networkmanager-openvpn-1.0.2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/libgusb-0.2.5 abi_x86_32
+# required by x11-libs/cairo-1.14.2::gentoo
+# required by x11-libs/gtk+-2.24.28-r1::gentoo
+# required by mail-client/thunderbird-38.1.0::gentoo
+# required by @selected
+# required by @world (argument)
+>=dev-libs/lzo-2.08 abi_x86_32
+# required by dev-qt/qtgui-4.8.6-r4::gentoo
+# required by dev-python/PyQt4-4.11.1::gentoo[X]
+# required by dev-python/ipython-2.2.0-r1::gentoo[qt4]
+# required by @selected
+# required by @world (argument)
+>=dev-qt/qtscript-4.8.6-r2 abi_x86_32
+# required by dev-qt/qtwebkit-4.8.6-r1::gentoo
+# required by kde-base/kdelibs-4.14.8::gentoo
+# required by kde-apps/kdialog-4.14.3::gentoo
+# required by app-emulation/winetricks-20150706::gentoo[kde]
+# required by @selected
+# required by @world (argument)
+>=dev-qt/qtgui-4.8.6-r4 abi_x86_32
+# required by dev-qt/qtwebkit-4.8.6-r1::gentoo
+# required by kde-base/kdelibs-4.14.8::gentoo
+# required by kde-apps/kdialog-4.14.3::gentoo
+# required by app-emulation/winetricks-20150706::gentoo[kde]
+# required by @selected
+# required by @world (argument)
+>=dev-qt/qtcore-4.8.6-r2 abi_x86_32
+# required by app-office/akonadi-server-1.13.0-r1::gentoo[qt4]
+# required by kde-base/kdepimlibs-4.14.8::gentoo
+# required by kde-apps/kwalletd-4.14.3-r2::gentoo[gpg]
+# required by dev-vcs/subversion-1.8.14::gentoo[kde]
+# required by dev-vcs/git-2.4.6::gentoo[perl,subversion]
+# required by app-portage/layman-2.0.0-r3::gentoo[git]
+# required by @selected
+# required by @world (argument)
+>=dev-qt/qtsql-4.8.6-r1 mysql
+# required by media-plugins/mediastreamer-x264-1.4.1::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/mediastreamer-2.9.0 video
+# required by virtual/libudev-215-r1::gentoo
+# required by media-libs/libcanberra-0.30-r5::gentoo
+# required by x11-misc/notification-daemon-3.14.1::gentoo
+# required by virtual/notification-daemon-0::gentoo[gnome]
+# required by x11-libs/libnotify-0.7.6-r1::gentoo
+# required by gnome-extra/zenity-3.14.0::gentoo[libnotify]
+# required by games-util/steam-launcher-1.0.0.50::steam-overlay
+# required by @selected
+# required by @world (argument)
+>=sys-apps/systemd-218-r3 abi_x86_32
+# required by dev-qt/qtcore-4.8.6-r2::gentoo[ssl]
+# required by app-text/poppler-0.32.0::gentoo[qt4]
+# required by net-print/cups-2.0.3::gentoo
+# required by dev-qt/qtgui-4.8.6-r4::gentoo[cups]
+# required by dev-qt/qtwebkit-4.8.6-r1::gentoo
+# required by dev-python/PyQt4-4.11.1::gentoo[webkit]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[qt4,equalizer]
+# required by media-video/vlc-2.1.5-r1::gentoo[pulseaudio]
+# required by media-libs/phonon-vlc-0.7.2::gentoo
+# required by media-libs/phonon-4.7.2::gentoo[vlc]
+# required by dev-qt/designer-4.8.6-r1::gentoo[phonon,kde]
+# required by kde-base/katepart-4.14.3::gentoo
+# required by kde-base/kdelibs-4.14.8::gentoo
+# required by kde-base/khelpcenter-4.14.3::gentoo
+>=dev-libs/openssl-1.0.1p abi_x86_32
+# required by virtual/mysql-5.6-r2::gentoo
+# required by dev-perl/DBD-mysql-4.31.0::gentoo
+>=dev-db/mariadb-10.0.21 embedded abi_x86_32
+# required by dev-db/mariadb-10.0.21::gentoo[-bindist]
+# required by virtual/mysql-5.6-r2::gentoo
+# required by dev-perl/DBD-mysql-4.31.0::gentoo
+>=sys-libs/readline-6.3_p8-r2 abi_x86_32
+# required by sys-apps/systemd-218-r3::gentoo[lz4]
+# required by sys-process/procps-3.3.9-r2::gentoo[systemd]
+# required by dev-db/mariadb-10.0.21::gentoo
+# required by virtual/mysql-5.6-r2::gentoo
+# required by dev-perl/DBD-mysql-4.31.0::gentoo
+>=app-arch/lz4-0_p120 abi_x86_32
+# required by net-nds/openldap-2.4.38-r2::gentoo[gnutls,ssl]
+# required by net-fs/samba-3.6.25::gentoo[ldap]
+# required by media-video/vlc-2.1.5-r1::gentoo[samba]
+# required by media-libs/phonon-vlc-0.7.2::gentoo
+# required by media-libs/phonon-4.7.2::gentoo[vlc]
+# required by dev-python/PyQt4-4.11.1::gentoo[phonon,kde]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[qt4,equalizer]
+# required by media-libs/libsdl-1.2.15-r8::gentoo[pulseaudio]
+# required by media-video/ffmpeg-2.6.3::gentoo[sdl]
+# required by app-misc/strigi-0.7.8-r1::gentoo[ffmpeg,-libav]
+# required by kde-base/kdelibs-4.14.8::gentoo
+# required by kde-base/katepart-4.14.3::gentoo[handbook]
+>=net-libs/gnutls-3.3.15 abi_x86_32
+# required by kde-base/kdelibs-4.14.8::gentoo[zeroconf]
+# required by kde-base/katepart-4.14.3::gentoo[handbook]
+>=net-dns/avahi-0.6.31-r8 mdnsresponder-compat
+# required by net-libs/gnutls-3.3.15::gentoo
+# required by media-video/vlc-2.1.5-r1::gentoo[gnutls]
+# required by media-libs/phonon-vlc-0.7.2::gentoo
+# required by media-libs/phonon-4.7.2::gentoo[vlc]
+# required by dev-python/PyQt4-4.11.1::gentoo[phonon,kde]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[qt4,equalizer]
+# required by media-libs/libsdl-1.2.15-r8::gentoo[pulseaudio]
+# required by media-video/ffmpeg-2.6.3::gentoo[sdl]
+# required by app-misc/strigi-0.7.8-r1::gentoo[ffmpeg,-libav]
+# required by kde-base/kdelibs-4.14.8::gentoo
+# required by kde-base/katepart-4.14.3::gentoo[handbook]
+>=dev-libs/nettle-2.7.1-r4 abi_x86_32
+# required by x11-misc/notification-daemon-3.14.1::gentoo
+# required by virtual/notification-daemon-0::gentoo[-gnome]
+# required by x11-libs/libnotify-0.7.6-r1::gentoo
+# required by media-video/vlc-2.1.5-r1::gentoo[libnotify]
+# required by media-libs/phonon-vlc-0.7.2::gentoo
+# required by media-libs/phonon-4.7.2::gentoo[vlc]
+# required by dev-python/PyQt4-4.11.1::gentoo[phonon,kde]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[qt4,equalizer]
+# required by media-libs/libsdl-1.2.15-r8::gentoo[pulseaudio]
+# required by media-video/ffmpeg-2.6.3::gentoo[sdl]
+# required by app-misc/strigi-0.7.8-r1::gentoo[ffmpeg,-libav]
+# required by kde-base/kdelibs-4.14.8::gentoo
+# required by kde-base/katepart-4.14.3::gentoo[handbook]
+>=media-libs/libcanberra-0.30-r5 gtk3
+# required by x11-libs/gtk+-2.24.28-r1::gentoo[cups]
+# required by dev-java/icedtea-bin-7.2.5.5::gentoo[X]
+# required by dev-java/icedtea-web-1.5.1-r1::gentoo[icedtea7]
+>=net-print/cups-2.0.3 abi_x86_32
+# required by net-misc/openssh-6.9_p1-r2::gentoo[ssl,-static]
+# required by virtual/ssh-0::gentoo[-minimal]
+# required by @system
+# required by @world (argument)
+>=dev-libs/openssl-1.0.1p -bindist
+# required by dev-db/mariadb-10.0.21::gentoo[ssl]
+# required by virtual/mysql-5.6-r2::gentoo
+# required by dev-perl/DBD-mysql-4.31.0::gentoo
+=dev-libs/openssl-1.0.1o abi_x86_32
+# required by net-misc/modemmanager-1.4.8::gentoo
+# required by net-misc/networkmanager-1.0.2-r1::gentoo[modemmanager]
+# required by kde-misc/plasma-nm-0.9.3.6::gentoo
+# required by kde-apps/solid-runtime-4.14.3::gentoo[networkmanager]
+# required by kde-base/solid-actions-kcm-4.11.19::gentoo
+# required by kde-apps/kdebase-meta-4.14.3::gentoo[-minimal]
+# required by kdebase-meta (argument)
+>=sys-auth/polkit-0.112-r3 introspection
+# required by net-misc/networkmanager-1.0.2-r1::gentoo[zeroconf]
+# required by kde-misc/plasma-nm-0.9.3.6::gentoo
+# required by kde-apps/solid-runtime-4.14.3::gentoo[networkmanager]
+# required by kde-base/solid-actions-kcm-4.11.19::gentoo
+# required by kde-apps/kdebase-meta-4.14.3::gentoo[-minimal]
+# required by kdebase-meta (argument)
+>=net-dns/avahi-0.6.31-r8 autoipd
+# required by gnome-base/gnome-keyring-3.14.0::gentoo
+# required by gnome-base/libgnome-keyring-3.12.0::gentoo
+# required by dev-vcs/git-2.4.6::gentoo[gnome-keyring]
+# required by app-portage/layman-2.0.0-r3::gentoo[git]
+# required by layman (argument)
+>=app-crypt/gcr-3.14.0 gtk
+# required by www-client/firefox-38.1.1::gentoo
+# required by firefox (argument)
+>=dev-lang/python-2.7.9-r1:2.7 sqlite
+# required by media-sound/amarok-2.8.0-r3::gentoo[ipod]
+# required by amarok (argument)
+>=media-libs/libgpod-0.8.3 gtk
+# required by dev-python/peewee-2.5.1::gentoo[python_targets_python3_4]
+# required by dev-python/peewee (argument)
+>=dev-lang/python-3.4.1 sqlite
+####SKYPE
+# required by virtual/pam-0-r1::gentoo
+# required by net-fs/samba-3.6.25::gentoo[pam]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-libs/pam-1.2.1 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[jpeg2k]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-libs/openjpeg-1.5.2:0 abi_x86_32
+# required by media-plugins/alsa-plugins-1.0.29::gentoo
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-libs/alsa-lib-1.0.29 abi_x86_32
+# required by virtual/fam-0-r1::gentoo
+# required by net-fs/samba-3.6.25::gentoo[fam]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=app-admin/gamin-0.1.10-r1 abi_x86_32
+# required by net-fs/samba-3.6.25::gentoo[pam,winbind,client]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=dev-libs/iniparser-3.1-r1 abi_x86_32
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-video/ffmpeg-2.6.3 abi_x86_32
+# required by sys-libs/pam-1.2.1::gentoo[berkdb]
+# required by virtual/pam-0-r1::gentoo
+# required by net-fs/samba-3.6.25::gentoo[pam]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-libs/db-4.8.30-r2 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[faac,encode]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-libs/faac-1.28-r4 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[aac,encode]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-libs/vo-aacenc-0.1.3 abi_x86_32
+# required by net-fs/samba-3.6.25::gentoo[fam]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=virtual/fam-0-r1 abi_x86_32
+# required by media-libs/libdc1394-2.2.1::gentoo
+# required by media-video/ffmpeg-2.6.3::gentoo[ieee1394]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=virtual/libusb-1-r1 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[-iec61883,ieee1394]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-libs/libraw1394-2.1.0-r1 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[ieee1394]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-libs/libdc1394-2.2.1 abi_x86_32
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=virtual/ffmpeg-9-r2 abi_x86_32
+# required by sys-libs/tevent-0.9.21-r1::gentoo
+# required by net-fs/samba-3.6.25::gentoo
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-libs/talloc-2.1.0-r1 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[wavpack,encode]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-sound/wavpack-4.70.0 abi_x86_32
+# required by net-fs/samba-3.6.25::gentoo
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-libs/tdb-1.3.0-r1 abi_x86_32
+# required by net-fs/samba-3.6.25::gentoo
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-libs/tevent-0.9.21-r1 abi_x86_32
+# required by sys-libs/pam-1.2.1::gentoo
+# required by virtual/pam-0-r1::gentoo
+# required by net-fs/samba-3.6.25::gentoo[pam]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-devel/flex-2.5.39-r1 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[xvid,encode]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-libs/xvid-1.3.3 abi_x86_32
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-plugins/alsa-plugins-1.0.29 abi_x86_32
+# required by net-fs/samba-3.6.25::gentoo[pam]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=virtual/pam-0-r1 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=net-fs/samba-3.6.25 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[sdl]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-libs/libsdl-1.2.15-r8 abi_x86_32
+# required by virtual/libusb-1-r1::gentoo
+# required by media-libs/libdc1394-2.2.1::gentoo
+# required by media-video/ffmpeg-2.6.3::gentoo[ieee1394]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=dev-libs/libusb-1.0.19 abi_x86_32
+# required by app-admin/gamin-0.1.10-r1::gentoo
+# required by virtual/fam-0-r1::gentoo
+# required by net-fs/samba-3.6.25::gentoo[fam]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=dev-libs/libgamin-0.1.10-r5 abi_x86_32
+# required by media-libs/libsdl-1.2.15-r8::gentoo[pulseaudio]
+# required by media-video/ffmpeg-2.6.3::gentoo[sdl]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+>=media-sound/pulseaudio-5.0-r7 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[x264,encode]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-libs/x264-0.0.20140308 abi_x86_32
+# required by sys-libs/pam-1.2.1::gentoo[cracklib]
+# required by virtual/pam-0-r1::gentoo
+# required by net-fs/samba-3.6.25::gentoo[pam]
+# required by media-video/ffmpeg-2.6.3::gentoo[samba]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-libs/cracklib-2.9.1-r1 abi_x86_32
+# required by media-video/ffmpeg-2.6.3::gentoo[mp3,encode]
+# required by virtual/ffmpeg-9-r2::gentoo[-libav]
+# required by media-plugins/alsa-plugins-1.0.29::gentoo[ffmpeg]
+# required by media-sound/pulseaudio-5.0-r7::gentoo[alsa,alsa-plugin]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=media-sound/lame-3.99.5-r1 abi_x86_32
+# required by media-sound/pulseaudio-5.0-r7::gentoo[tcpd]
+# required by net-im/skype-4.3.0.37-r5::gentoo[pulseaudio]
+# required by net-im/skype (argument)
+>=sys-apps/tcp-wrappers-7.6.22-r1 abi_x86_32# required by dev-util/atom-shell-0.22.3-r3::emc
+# required by app-editors/atom-1.0.7::emc
+# required by app-editors/atom (argument)
+>=sys-libs/ncurses-5.9-r3 tinfo
+# required by www-client/chromium-44.0.2403.89::gentoo
+# required by www-client/chromium (argument)
+>=dev-libs/libxml2-2.9.2-r1 icu
+dev-qt/qtwebkit icu
+# required by www-plugins/freshplayerplugin-0.3.2::gentoo
+# required by www-plugins/freshplayerplugin (argument)
+>=media-libs/mesa-10.4.6 gles2
+# required by kde-misc/synaptiks-0.8.1-r4::gentoo
+# required by kde-misc/synaptiks (argument)
+>=dev-python/pyudev-0.16.1-r1 pyqt4
+# required by sys-devel/prelink-20130503::gentoo
+# required by app-emulation/wine-1.6.2::gentoo[prelink]
+# required by app-emulation/winetricks-20150706::gentoo
+# required by app-emulation/winetricks (argument)
+>=dev-libs/elfutils-0.158 static-libs
+# required by x11-libs/gtk+-3.16.6::gentoo
+# required by app-crypt/gcr-3.16.0::gentoo[gtk]
+# required by gnome-base/gnome-keyring-3.14.0::gentoo
+# required by gnome-base/libgnome-keyring-3.12.0::gentoo
+# required by dev-vcs/git-2.4.6::gentoo[gnome-keyring]
+# required by dev-vcs/git-flow-1.8.0-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/libepoxy-1.2 abi_x86_32
+# required by gnome-base/gnome-keyring-3.16.0-r1::gentoo
+# required by app-crypt/libsecret-0.18.3::gentoo
+>=app-crypt/pinentry-0.9.5 gnome-keyring
+# required by app-office/libreoffice-4.4.5.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=media-libs/harfbuzz-0.9.41 icu
+# required by net-im/psi-0.15::gentoo[crypt]
+# required by net-im/psimedia-1.0.3-r3::gentoo
+# required by net-im/psimedia (argument)
+>=app-crypt/qca-2.1.0.3 gpg
+# required by media-libs/mesa-10.4.6::gentoo[vdpau]
+# required by www-plugins/freshplayerplugin-0.3.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libvdpau-0.9 abi_x86_32
+# required by virtual/mysql-5.6-r6::gentoo
+# required by dev-qt/qtsql-4.8.6-r1::gentoo
+# required by kde-apps/kfmclient-4.14.3::gentoo
+# required by kde-apps/konqueror-4.14.3::gentoo
+# required by kde-apps/konq-plugins-4.14.3::gentoo
+# required by kde-apps/kdebase-meta-4.14.3::gentoo
+# required by @selected
+# required by @world (argument)
+>=virtual/libmysqlclient-18 abi_x86_32
+# required by net-im/skype-4.3.0.37-r5::gentoo[plasma]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/sni-qt-0.2.6-r1 abi_x86_32
+# required by x11-libs/libSM-1.2.2-r1::gentoo[uuid]
+# required by kde-base/libkworkspace-4.11.19::gentoo
+# required by kde-base/systemsettings-4.11.19::gentoo
+# required by kde-base/kdebase-startkde-4.11.19::gentoo
+# required by kde-apps/kdebase-meta-4.14.3::gentoo[-minimal]
+# required by @selected
+# required by @world (argument)
+>=sys-apps/util-linux-2.26.2 abi_x86_32
+# required by media-gfx/nvidia-cg-toolkit-3.1.0013-r3::gentoo[abi_x86_32]
+# required by games-action/hotline-miami-1.0.9a_p20140221-r1::gentoo[-bundled-libs]
+# required by games-action/hotline-miami (argument)
+>=x11-libs/libXmu-1.1.2 abi_x86_32
+# required by games-action/hotline-miami-1.0.9a_p20140221-r1::gentoo[-bundled-libs]
+# required by games-action/hotline-miami (argument)
+>=media-libs/openal-1.15.1-r2 abi_x86_32
+# required by games-action/hotline-miami-1.0.9a_p20140221-r1::gentoo[-bundled-libs]
+# required by games-action/hotline-miami (argument)
+>=media-gfx/nvidia-cg-toolkit-3.1.0013-r3 abi_x86_32
+# required by dev-libs/nettle-3.1.1::gentoo[gmp]
+# required by net-libs/gnutls-3.3.17.1::gentoo
+# required by net-misc/wget-1.16.3-r1::gentoo[ssl,gnutls,-static]
+# required by @system
+# required by @world (argument)
+>=dev-libs/gmp-6.0.0a abi_x86_32
+# required by kde-apps/kdebase-runtime-meta-4.14.3::gentoo[minimal]
+# required by kde-apps/kdebase-meta-4.14.3::gentoo
+# required by @selected
+# required by @world (argument)
+>=kde-apps/solid-runtime-4.14.3 -bluetooth
+
+# required by app-emulation/virtualbox-5.0.8::gentoo[vboxwebsrv]
+# required by @selected
+# required by @world (argument)
+>=net-libs/gsoap-2.8.23 -gnutls
+# required by net-analyzer/tcpreplay-4.1.0-r1::gentoo
+# required by net-analyzer/tcpreplay (argument)
+>=sys-devel/autogen-5.18.1 libopts
+# required by x11-libs/gtk+-2.24.28-r1::gentoo
+# required by net-misc/spice-gtk-0.28::gentoo
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gdk-pixbuf-2.32.1 introspection
+# required by net-misc/spice-gtk-0.28::gentoo
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gtk+-2.24.28-r1:2 introspection
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=net-libs/gtk-vnc-0.5.4 gtk3 introspection
+# required by x11-libs/vte-0.36.4::gentoo
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/gtk+-3.16.6 introspection
+# required by x11-libs/gtk+-3.16.6::gentoo
+# required by x11-libs/vte-0.36.4::gentoo
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/pango-1.36.8 introspection
+# required by x11-libs/gtk+-3.16.6::gentoo
+# required by x11-libs/vte-0.36.4::gentoo
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=dev-libs/atk-2.16.0-r1 introspection
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=net-misc/spice-gtk-0.28 gtk3 usbredir introspection
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo[gtk]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/vte-0.36.4:2.90 introspection
+# required by media-libs/libsdl-1.2.15-r9::gentoo[X]
+# required by @steam
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXrandr-1.5.0 abi_x86_32
+# required by x11-libs/pango-1.36.8-r1::gentoo[X]
+# required by x11-drivers/nvidia-drivers-355.11-r2::gentoo[tools]
+# required by x11-base/xorg-drivers-1.17::gentoo[video_cards_nvidia]
+# required by x11-base/xorg-server-1.17.4::gentoo[xorg]
+# required by x11-drivers/xf86-input-synaptics-1.8.2::gentoo
+# required by kde-misc/synaptiks-0.8.1-r4::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXrender-0.9.9 abi_x86_32
+# required by x11-libs/libXrandr-1.5.0::gentoo
+# required by x11-apps/xinput-1.6.2::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-proto/randrproto-1.5.0 abi_x86_32
+# required by x11-libs/libXmu-1.1.2::gentoo
+# required by x11-apps/xauth-1.0.9-r2::gentoo
+# required by x11-base/xorg-server-1.17.4::gentoo
+# required by x11-drivers/xf86-input-synaptics-1.8.2::gentoo
+# required by x11-base/xorg-drivers-1.17::gentoo[input_devices_synaptics]
+# required by x11-misc/bumblebee-3.2.1::gentoo
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXt-1.1.5 abi_x86_32
+# required by media-libs/freeglut-3.0.0::gentoo
+# required by dev-python/pyopengl-3.0.2-r1::gentoo
+# required by dev-python/wxpython-3.0.2.0::gentoo[opengl]
+# required by dev-python/ipython-3.2.1-r1::gentoo[python_targets_python2_7,wxwidgets]
+# required by @selected
+# required by @world (argument)
+>=x11-libs/libXi-1.7.5 abi_x86_32
+net-libs/libsoup introspection

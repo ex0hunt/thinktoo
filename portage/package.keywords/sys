@@ -1,0 +1,6 @@
+=net-print/hplip-plugin-3.14.10 ~amd64
+=sys-kernel/gentoo-sources-4.2.0-r1 ~amd64
+app-emulation/winetricks ~amd64
+app-backup/obnam ~amd64
+app-portage/layman ~amd64
+sys-boot/grub ~amd64

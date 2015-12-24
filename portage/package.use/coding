@@ -1,0 +1,4 @@
+dev-vcs/git -nls gnome-keyring
+sys-devel/gettext -git
+app-editors/emacs -X
+net-analyzer/wireshark -qt4 gtk3

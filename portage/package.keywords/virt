@@ -1,0 +1,8 @@
+app-emulation/virtualbox ~amd64
+app-emulation/virtualbox-additions ~amd64
+app-emulation/virtualbox-extpack-oracle ~amd64
+app-emulation/virtualbox-module ~amd64
+app-emulation/virtualbox-modules ~amd64
+app-emulation/docker ~amd64
+app-emulation/wine ~amd64
+app-emulation/virt-manager ~amd64

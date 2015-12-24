@@ -1,0 +1,5 @@
+=x11-base/xorg-server-1.16.4-r5 ~amd64
+# required by =media-libs/mesa-10.4.6 (argument)
+=media-libs/mesa-10.4.6 ~amd64
+x11-drivers/nvidia-drivers ~amd64
+x11-misc/bumblebee **

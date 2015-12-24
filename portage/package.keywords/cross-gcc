@@ -1,0 +1,5 @@
+cross-gcc/binutils * ~* -amd64 -~amd64
+cross-gcc/gcc * ~* -amd64 -~amd64
+cross-gcc/linux-headers * ~* -amd64 -~amd64
+cross-gcc/glibc * ~* -amd64 -~amd64
+cross-gcc/gdb * ~* -amd64 -~amd64

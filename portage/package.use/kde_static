@@ -1,0 +1,4 @@
+media-sound/pulseaudio -equalizer
+net-print/cups -java
+dev-libs/openssl bindist
+=media-libs/mesa-10.4.6 ~amd64

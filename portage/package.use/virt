@@ -1,0 +1,15 @@
+app-emulation/virtualbox extensions additions
+app-emulation/wine abi_x86_32
+app-emulation/virtualbox vboxwebsrv java
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo
+# required by app-emulation/virt-manager (argument)
+>=app-emulation/libvirt-glib-0.2.2 introspection
+# required by app-emulation/libvirt-1.2.18-r1::gentoo[virt-network]
+# required by dev-python/libvirt-python-1.2.18::gentoo
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo
+# required by app-emulation/virt-manager (argument)
+>=net-dns/dnsmasq-2.72-r2 script
+# required by app-emulation/virt-manager-1.1.0-r2::gentoo
+# required by app-emulation/virt-manager (argument)
+>=sys-libs/libosinfo-0.2.12 introspection
+app-emulation/virt-manager gtk

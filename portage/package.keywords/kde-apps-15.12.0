@@ -1,0 +1,893 @@
+# required by media-libs/mlt-0.9.8::gentoo[opengl]
+# required by kde-apps/kdenlive-15.12.0::gentoo
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=media-video/movit-1.2.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/step-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kate-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeartwork-meta-15.08.3 ~amd64
+# required by kde-apps/ktp-kded-module-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/signon-kwallet-extension-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktraderclient-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/artikulate-15.12.0 ~amd64
+# required by kde-apps/gwenview-15.12.0::kde
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=dev-qt/qtimageformats-5.5.1 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdegraphics-mobipocket-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kreadconfig-15.12.0 ~amd64
+# required by kde-apps/libkexiv2-15.12.0::kde
+# required by kde-apps/thumbnailers-15.12.0::kde
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=media-gfx/exiv2-0.25-r1 ~amd64
+# required by net-libs/telepathy-accounts-signon-1.0::gentoo
+# required by kde-apps/ktp-common-internals-15.12.0::kde[sso]
+# required by kde-apps/ktp-auth-handler-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=net-libs/libsignon-glib-1.13 ~amd64
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdialog-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/keditfiletype-15.12.0 ~amd64
+# required by kde-apps/dolphin-15.12.0::kde[semantic-desktop]
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/baloo-widgets-15.12.0 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-text-ui-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdegames-meta-15.12.0 ~amd64
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kscd-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kfile-15.12.0 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kamera-15.12.0 ~amd64
+# required by kde-apps/kalzium-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkdeedu-15.12.0 ~amd64
+# required by kde-apps/ktp-common-internals-15.12.0::kde[sso]
+# required by kde-apps/ktp-auth-handler-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=net-libs/telepathy-accounts-signon-1.0 ~amd64
+# required by kde-apps/kdeadmin-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ksystemlog-15.12.0 ~amd64
+# required by kde-apps/nsplugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/konqueror-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/khangman-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/knewstuff-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdebase-data-15.12.0 ~amd64
+# required by kde-apps/spectacle-15.12.0::kde[kipi]
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkipi-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktimezoned-15.12.0 ~amd64
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/juk-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdenetwork-meta-15.12.0 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-desktop-applets-15.12.0 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-approver-15.12.0 ~amd64
+# required by kde-apps/kdenetwork-meta-15.12.0::kde[ppp]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kppp-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdebase-desktoptheme-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kwordquiz-15.12.0 ~amd64
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/krfb-15.12.0 ~amd64
+# required by kde-apps/kalgebra-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/analitza-15.12.0 ~amd64
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/krdc-15.12.0 ~amd64
+# required by kde-apps/kaccounts-providers-15.12.0-r1::kde
+# required by kde-apps/ktp-accounts-kcm-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=net-libs/signon-oauth2-0.21 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kioclient-15.12.0 ~amd64
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/audiocd-kio-15.12.0 ~amd64
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/konq-plugins-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdebugdialog-15.12.0 ~amd64
+# required by kde-apps/konqueror-15.12.0::kde
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kurifilter-plugins-15.12.0 ~amd64
+# required by kde-apps/ktp-accounts-kcm-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=net-libs/accounts-qt-1.13 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/parley-15.12.0 ~amd64
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdenlive-15.12.0 ~amd64
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdebase-runtime-meta-15.12.0 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/okular-15.12.0 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kcolorchooser-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdesu-15.12.0 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/thumbnailers-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/rocs-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kmimetypefinder-15.12.0 ~amd64
+# required by kde-apps/ktp-auth-handler-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kaccounts-integration-15.12.0-r1 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kruler-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde[nls]
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kde-l10n-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/cantor-15.12.0 ~amd64
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/dolphin-15.12.0 ~amd64
+# required by kde-apps/step-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=dev-cpp/eigen-3.2.7 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-contact-runner-15.12.0 ~amd64
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdenetwork-filesharing-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdontchangethehostname-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kanagram-15.12.0 ~amd64
+# required by kde-apps/kqtquickcharts-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/plasma-runtime-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/marble-15.12.0 ~amd64
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde[ffmpeg]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ffmpegthumbs-15.12.0 ~amd64
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/konsole-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeedu-data-15.12.0 ~amd64
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/dragon-15.12.0 ~amd64
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/zeroconf-ioslave-15.12.0 ~amd64
+# required by kde-apps/ktp-text-ui-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-contact-list-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdegraphics-meta-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktouch-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kquitapp-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kstars-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeutils-meta-15.12.0 ~amd64
+# required by net-libs/signon-ui-0.15::gentoo
+# required by kde-apps/kaccounts-providers-15.12.0-r1::kde
+# required by kde-apps/ktp-accounts-kcm-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=net-libs/signond-8.58 ~amd64
+# required by kde-apps/kaccounts-providers-15.12.0-r1::kde
+# required by kde-apps/ktp-accounts-kcm-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=net-libs/signon-ui-0.15 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/renamedlg-plugins-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde[minimal]
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/solid-runtime-15.12.0 ~amd64
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kcmshell-15.12.0 ~amd64
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kget-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeedu-meta-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kmplot-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdebase-menu-icons-15.12.0 ~amd64
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkonq-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kturtle-15.12.0 ~amd64
+# required by kde-apps/audiocd-kio-15.12.0::kde
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkcddb-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkeduvocdocument-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdebase-meta-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdebase-menu-15.12.0 ~amd64
+# required by kde-apps/konqueror-15.12.0::kde[bookmarks]
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/keditbookmarks-15.12.0 ~amd64
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kwrite-15.12.0 ~amd64
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/plasma-telepathy-meta-15.12.0 ~amd64
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kmix-15.12.0 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-auth-handler-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/klettres-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde[nls]
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kde4-l10n-15.12.0 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/gwenview-15.12.0 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeadmin-meta-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kiten-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/phonon-kde-15.12.0 ~amd64
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/nsplugins-15.12.0 ~amd64
+# required by kde-apps/audiocd-kio-15.12.0::kde
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkcompactdisc-15.12.0 ~amd64
+# required by kde-apps/thumbnailers-15.12.0::kde
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkdcraw-15.12.0 ~amd64
+# required by kde-apps/rocs-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=dev-libs/grantlee-5.0.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kgeography-15.12.0 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-send-file-15.12.0 ~amd64
+# required by kde-apps/artikulate-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=media-libs/qt-gstreamer-1.2.0-r1 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/blinken-15.12.0 ~amd64
+# required by kde-apps/ktouch-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kqtquickcharts-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kbruch-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kpasswdserver-15.12.0 ~amd64
+# required by kde-apps/konqueror-15.12.0::kde
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kfmclient-15.12.0 ~amd64
+# required by kde-apps/kdeadmin-meta-15.12.0::kde[cron]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kcron-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kalgebra-15.12.0 ~amd64
+# required by kde-apps/ktouch-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/knotify-15.12.0 ~amd64
+# required by kde-apps/ktp-text-ui-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-common-internals-15.12.0 ~amd64
+# required by kde-apps/ktp-common-internals-15.12.0::kde
+# required by kde-apps/ktp-auth-handler-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=net-libs/telepathy-logger-qt-15.04.0 ~amd64
+# required by kde-apps/ktp-send-file-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-filetransfer-handler-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kig-15.12.0 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-accounts-kcm-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kstart-15.12.0 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kolourpaint-15.12.0 ~amd64
+# required by kde-apps/dolphin-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kio-extras-15.12.0 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-kded-module-15.12.0 ~amd64
+# required by net-libs/telepathy-accounts-signon-1.0::gentoo
+# required by kde-apps/ktp-common-internals-15.12.0::kde[sso]
+# required by kde-apps/ktp-auth-handler-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=net-libs/libaccounts-glib-1.19 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kiconfinder-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde[oldwallet,minimal]
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kwalletd-15.12.0 ~amd64
+# required by kde-apps/konqueror-15.12.0::kde
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kfind-15.12.0 ~amd64
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kalzium-15.12.0 ~amd64
+# required by kde-apps/konqueror-15.12.0::kde[svg]
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/svgpart-15.12.0 ~amd64
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde[nls]
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktp-l10n-15.12.0 ~amd64
+# required by kde-apps/ktp-accounts-kcm-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kaccounts-providers-15.12.0-r1 ~amd64
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdemultimedia-meta-15.12.0 ~amd64
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kimgio-15.12.0 ~amd64
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/spectacle-15.12.0 ~amd64
+# required by kde-apps/kdenlive-15.12.0::gentoo
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=media-libs/mlt-0.9.8 ~amd64
+# required by kde-apps/thumbnailers-15.12.0::kde
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkexiv2-15.12.0 ~amd64
+=dev-libs/quazip-0.7.1 -qt4 qt5
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kpat-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kteatime-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kshisen-15.12.0 ~amd64
+# required by kde-apps/kdeartwork-meta-15.08.3::gentoo
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeartwork-weatherwallpapers-15.08.3-r1 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kbounce-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/konquest-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ksirk-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/bomber-15.12.0 ~amd64
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkmahjongg-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ksquares-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kblackbox-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktuberling-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kmines-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kjumpingcube-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kolf-15.12.0 ~amd64
+# required by kde-apps/kdeartwork-weatherwallpapers-15.08.3-r1::gentoo
+# required by kde-apps/kdeartwork-meta-15.08.3::gentoo
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeartwork-wallpapers-15.08.3-r1 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/katomic-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kblocks-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kfourinline-15.12.0 ~amd64
+# required by kde-apps/kdeartwork-meta-15.08.3::gentoo
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeartwork-iconthemes-15.08.3 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kiriki-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kigo-15.12.0 ~amd64
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/libkdegames-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kmahjongg-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kbreakout-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/filelight-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kwalletmanager-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kcalc-15.12.0-r1 ~amd64
+# required by kde-apps/kdeartwork-meta-15.08.3::gentoo
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeartwork-kscreensaver-15.08.3 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/bovo-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kapman-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kreversi-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/lskat-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ktimer-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/knavalbattle-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kgoldrunner-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ksnakeduel-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdf-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/klines-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ark-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/granatier-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kajongg-15.12.0 ~amd64
+# required by kde-apps/kdeartwork-meta-15.08.3::gentoo
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeartwork-colorschemes-15.08.3 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kollision-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kcharselect-15.12.0 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/sweeper-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kubrick-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdiamond-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/killbots-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/klickety-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/knetwalk-15.12.0 ~amd64
+# required by kde-apps/kdeartwork-meta-15.08.3::gentoo
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeartwork-desktopthemes-15.08.3 ~amd64
+# required by kde-apps/kdeutils-meta-15.12.0::kde[cups]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/print-manager-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/picmi-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/palapeli-15.12.0 ~amd64
+# required by kde-apps/kdeartwork-meta-15.08.3::gentoo
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kdeartwork-emoticons-15.08.3 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/kspaceduel-15.12.0 ~amd64
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+=kde-apps/ksudoku-15.12.0 ~amd64
+

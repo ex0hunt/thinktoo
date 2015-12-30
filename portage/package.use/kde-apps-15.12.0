@@ -1,0 +1,6 @@
+=dev-libs/quazip-0.7.1 -qt4 qt5
+net-libs/gupnp-igd -python
+net-libs/farstream -python
+#=kde-apps/solid-runtime-15.12.0 -networkmanager
+
+=kde-apps/kdebase-data-15.12.0 -wallpapers

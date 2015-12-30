@@ -1,0 +1,3789 @@
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/konsole-15.12.0
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kde-apps-meta-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/step-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kate-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdeadmin-meta-15.12.0
+# required by kde-apps/kalzium-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkdeedu-15.12.0
+# required by kde-apps/ktp-kded-module-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/signon-kwallet-extension-15.12.0
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/dragon-15.12.0
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/zeroconf-ioslave-15.12.0
+# required by kde-apps/ktp-text-ui-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-contact-list-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdegraphics-meta-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdeedu-data-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kquitapp-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktraderclient-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/artikulate-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kstars-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdeutils-meta-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/renamedlg-plugins-15.12.0
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kcmshell-15.12.0
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkonq-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kreadconfig-15.12.0
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kget-15.12.0
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdialog-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdeedu-meta-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kmplot-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/keditfiletype-15.12.0
+# required by kde-apps/dolphin-15.12.0::kde[semantic-desktop]
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/baloo-widgets-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde[minimal]
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/solid-runtime-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kturtle-15.12.0
+# required by kde-apps/audiocd-kio-15.12.0::kde
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkcddb-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-text-ui-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdegames-meta-15.12.0
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kscd-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kfile-15.12.0
+# required by kde-apps/konqueror-15.12.0::kde[bookmarks]
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/keditbookmarks-15.12.0
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kwrite-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdebase-meta-15.12.0
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kamera-15.12.0
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/plasma-telepathy-meta-15.12.0
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kmix-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/cantor-15.12.0
+# required by kde-apps/kdeadmin-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ksystemlog-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-auth-handler-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/klettres-15.12.0
+# required by kde-apps/nsplugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/konqueror-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/khangman-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/knewstuff-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdebase-data-15.12.0
+# required by kde-apps/spectacle-15.12.0::kde[kipi]
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkipi-15.12.0
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/gwenview-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktimezoned-15.12.0
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/juk-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kiten-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdenetwork-meta-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-desktop-applets-15.12.0
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/nsplugins-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-approver-15.12.0
+# required by kde-apps/audiocd-kio-15.12.0::kde
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkcompactdisc-15.12.0
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kcolorchooser-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-contact-runner-15.12.0
+# required by kde-apps/kdenetwork-meta-15.12.0::kde[ppp]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kppp-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdebase-desktoptheme-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kwordquiz-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktouch-15.12.0
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/krfb-15.12.0
+# required by kde-apps/kalgebra-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/analitza-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdontchangethehostname-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/blinken-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kanagram-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdebase-menu-icons-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kbruch-15.12.0
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/krdc-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kpasswdserver-15.12.0
+# required by kde-apps/konqueror-15.12.0::kde
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kfmclient-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kioclient-15.12.0
+# required by kde-apps/kdeadmin-meta-15.12.0::kde[cron]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kcron-15.12.0
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/audiocd-kio-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kalgebra-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/phonon-kde-15.12.0
+# required by kde-apps/ktouch-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/knotify-15.12.0
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/konq-plugins-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdebugdialog-15.12.0
+# required by kde-apps/konqueror-15.12.0::kde
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kurifilter-plugins-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde[nls]
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kde4-l10n-15.12.0
+# required by kde-apps/ktp-text-ui-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-common-internals-15.12.0
+# required by kde-apps/ktouch-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kqtquickcharts-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/parley-15.12.0
+# required by kde-apps/kde-apps-meta-15.12.0::kde[nls]
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kde-l10n-15.12.0
+# required by kde-apps/ktp-send-file-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-filetransfer-handler-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kig-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-accounts-kcm-15.12.0
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdebase-runtime-meta-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kstart-15.12.0
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/okular-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdebase-menu-15.12.0
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kolourpaint-15.12.0
+# required by kde-apps/thumbnailers-15.12.0::kde
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkdcraw-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdesu-15.12.0
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/thumbnailers-15.12.0
+# required by kde-apps/dolphin-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kio-extras-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-kded-module-15.12.0
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdegraphics-mobipocket-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kiconfinder-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde[oldwallet,minimal]
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kwalletd-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/rocs-15.12.0
+# required by kde-apps/konqueror-15.12.0::kde
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kfind-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kalzium-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kmimetypefinder-15.12.0
+# required by kde-apps/ktp-auth-handler-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+=kde-apps/kaccounts-integration-15.12.0-r1
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kruler-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-send-file-15.12.0
+# required by kde-apps/konqueror-15.12.0::kde[svg]
+# required by kde-apps/konq-plugins-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/svgpart-15.12.0
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde[nls]
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktp-l10n-15.12.0
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/dolphin-15.12.0
+# required by kde-apps/ktp-accounts-kcm-15.12.0::kde
+# required by kde-apps/plasma-telepathy-meta-15.12.0::kde
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kaccounts-providers-15.12.0-r1
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdemultimedia-meta-15.12.0
+# required by kde-apps/kdenetwork-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdenetwork-filesharing-15.12.0
+# required by kde-apps/kdebase-runtime-meta-15.12.0::kde
+# required by kde-apps/kdebase-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kimgio-15.12.0
+# required by kde-apps/kqtquickcharts-15.12.0::kde
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/plasma-runtime-15.12.0
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/spectacle-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kgeography-15.12.0
+# required by kde-apps/thumbnailers-15.12.0::kde
+# required by kde-apps/kdegraphics-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkexiv2-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/marble-15.12.0
+# required by kde-apps/kdeedu-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkeduvocdocument-15.12.0
+# required by kde-apps/kdemultimedia-meta-15.12.0::kde[ffmpeg]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ffmpegthumbs-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kbounce-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kteatime-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kpat-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/konquest-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ksirk-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/bomber-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ksquares-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kblackbox-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktuberling-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/klines-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/katomic-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kblocks-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kfourinline-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kolf-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kiriki-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kigo-15.12.0
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkdegames-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kmahjongg-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kbreakout-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/filelight-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kwalletmanager-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kcalc-15.12.0-r1
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/libkmahjongg-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/bovo-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kapman-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/palapeli-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kreversi-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/lskat-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ktimer-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/knavalbattle-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kgoldrunner-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ksnakeduel-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdf-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kspaceduel-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kjumpingcube-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ark-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/granatier-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kajongg-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kollision-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kcharselect-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/sweeper-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kubrick-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kdiamond-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/killbots-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/klickety-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/knetwalk-15.12.0
+# required by kde-apps/kdeutils-meta-15.12.0::kde[cups]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/print-manager-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde[cups]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/picmi-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kshisen-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/kmines-15.12.0
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /etc/portage/package.mask/kde5-unstable:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kpat-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kshisen-15.12.0::kde
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[python]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdeutils-meta-15.12.0::kde[cups]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+# required by kde-apps/kdegames-meta-15.12.0::kde[opengl]
+# required by kde-apps/kde-apps-meta-15.12.0::kde
+# required by kde-apps/kde-apps-meta (argument)
+# /var/lib/layman/kde/profiles/package.mask/kde-apps-15.12.0:
+=kde-apps/ksudoku-15.12.0
+
